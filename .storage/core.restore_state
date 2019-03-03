@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "last_seen": "2019-03-03T21:24:48.008649+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "The Clever Crib",
+                    "id": "f9ebcf9f248b491d8220ac0c6d545c2c",
+                    "user_id": "6693dc8892cf4a768a6e57b93e7c2e97"
+                },
+                "context": {
+                    "id": "06a7978a597340da90160baf62366eca",
+                    "user_id": null
+                },
+                "entity_id": "person.the_clever_crib",
+                "last_changed": "2019-03-03T20:54:47.168321+00:00",
+                "last_updated": "2019-03-03T20:54:47.168321+00:00",
+                "state": "unknown"
+            }
+        }
+    ],
+    "key": "core.restore_state",
+    "version": 1
+}

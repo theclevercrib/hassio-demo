@@ -1,0 +1,17 @@
+{
+    "data": {
+        "entities": [
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "person.the_clever_crib",
+                "name": null,
+                "platform": "person",
+                "unique_id": "f9ebcf9f248b491d8220ac0c6d545c2c"
+            }
+        ]
+    },
+    "key": "core.entity_registry",
+    "version": 1
+}

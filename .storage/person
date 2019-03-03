@@ -1,0 +1,14 @@
+{
+    "data": {
+        "persons": [
+            {
+                "device_trackers": [],
+                "id": "f9ebcf9f248b491d8220ac0c6d545c2c",
+                "name": "The Clever Crib",
+                "user_id": "6693dc8892cf4a768a6e57b93e7c2e97"
+            }
+        ]
+    },
+    "key": "person",
+    "version": 1
+}

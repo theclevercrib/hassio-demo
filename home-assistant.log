@@ -1,0 +1,2 @@
+2019-03-03 20:42:38 WARNING (Recorder) [homeassistant.components.recorder.migration] Database is about to upgrade. Schema version: None
+2019-03-03 21:19:37 WARNING (SyncWorker_12) [plexapi] BadRequest (401) unauthorized http://10.1.1.37:32400/; <html><head><script>window.location = window.location.href.match(/(^.+\/)[^\/]*$/)[1] + 'web/index.html';</script><title>Unauthorized</title></head><body><h1>401 Unauthorized</h1></body></html>

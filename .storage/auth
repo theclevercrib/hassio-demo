@@ -1,0 +1,79 @@
+{
+    "data": {
+        "credentials": [
+            {
+                "auth_provider_id": null,
+                "auth_provider_type": "homeassistant",
+                "data": {
+                    "username": "theclevercrib"
+                },
+                "id": "025b0a21f17c46518413199df4a7d03b",
+                "user_id": "6693dc8892cf4a768a6e57b93e7c2e97"
+            }
+        ],
+        "groups": [
+            {
+                "id": "system-admin",
+                "name": "Administrators"
+            },
+            {
+                "id": "system-read-only",
+                "name": "Read Only"
+            }
+        ],
+        "refresh_tokens": [
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": null,
+                "client_name": null,
+                "created_at": "2019-03-03T20:42:40.262943+00:00",
+                "id": "52516c70acf24ae0b62cb4cafb29bfdc",
+                "jwt_key": "9ecbe3c54e2ac41afc66b7490ab3514e5a14b0e6787f366fcdc7a5e3a61fbb8316845938170303bfd5cf9eeaa7c1bd4a58d9ef5cac0cafd86e8e22afc206b1f8",
+                "last_used_at": "2019-03-03T21:12:42.464676+00:00",
+                "last_used_ip": "172.30.32.2",
+                "token": "ff54bf143413f241dd79dfa87e1b158407a557e8a1298ab972aff38673551b1a07296671a304adadcab70fad3944f169faadeedb9712c86475feb4a60d58627d",
+                "token_type": "system",
+                "user_id": "474f6660c70548c3bcaddbcbe2bcae2f"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://10.8.8.253:8123/",
+                "client_name": null,
+                "created_at": "2019-03-03T20:54:58.872334+00:00",
+                "id": "4b600c21f5b8415d9e6d7472c55bc5c1",
+                "jwt_key": "dbdb9abea39087d868df5b97749ad46d008fbaa17250c5301e14cc19773300cce2da86cd836172e4924891780e4f29595f4c5c8db29c7caa99c076f18d114975",
+                "last_used_at": "2019-03-03T21:28:17.815160+00:00",
+                "last_used_ip": "10.1.1.4",
+                "token": "61b40d1805fdb6bcc373aab34414a22da4c0491b259963c16f5b7c8e7bbb9926c2bee8113b16c3486aef473ec46a9f9478e452b0da799007f48e453f86b8dd23",
+                "token_type": "normal",
+                "user_id": "6693dc8892cf4a768a6e57b93e7c2e97"
+            }
+        ],
+        "users": [
+            {
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "474f6660c70548c3bcaddbcbe2bcae2f",
+                "is_active": true,
+                "is_owner": false,
+                "name": "Hass.io",
+                "system_generated": true
+            },
+            {
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "6693dc8892cf4a768a6e57b93e7c2e97",
+                "is_active": true,
+                "is_owner": true,
+                "name": "The Clever Crib",
+                "system_generated": false
+            }
+        ]
+    },
+    "key": "auth",
+    "version": 1
+}
